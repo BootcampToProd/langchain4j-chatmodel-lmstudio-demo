@@ -30,6 +30,6 @@ To run this application, you will need the following:
 3.  **A Local Model & Running Server**: You must have an LLM (like `google/gemma-3-1b`) downloaded in LM Studio, and the **Local Server must be running** (default port is `1234`).
 
 **For detailed instructions on how to download models and start the local server in LM Studio, please follow the setup guide in our comprehensive article:**<br>
-👉 [**Click here for Detailed Instructions**](https://bootcamptoprod.com/?p=5456&preview=true&_thumbnail_id=5464#4-installing-and-setting-up-lm-studio)
+👉 [**Click here for Detailed Instructions**](https://bootcamptoprod.com/langchain4j-with-lm-studio/#4-installing-and-setting-up-lm-studio)
 
 ---
