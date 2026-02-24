@@ -6,7 +6,17 @@ This repository demonstrates how to connect a LangChain4j Spring Boot applicatio
 👉 [**Connecting LangChain4j to Local LLMs with LM Studio**](https://bootcamptoprod.com/langchain4j-with-lm-studio/)
 
 🎥 **Video Tutorial**: Prefer hands-on learning? Watch our step-by-step implementation guide.<br>
-👉 YouTube Tutorial - Coming soon!!
+👉 YouTube Tutorial - [**Connecting LangChain4j to Local LLMs in LM Studio**](https://youtu.be/DMsE78D9olE)
+
+<p align="center">
+  <a href="https://youtu.be/DMsE78D9olE">
+    <img src="https://img.youtube.com/vi/DMsE78D9olE/0.jpg" alt="Connecting LangChain4j to Local LLMs in LM Studio" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://youtu.be/DMsE78D9olE">Watch on YouTube</a>
+</p>
 
 ---
 
